@@ -55,6 +55,28 @@
     "desc": "简单的图像创作工具"
   },
   {
+    "image": "https://manjushri-sdxl-0-9.hf.space",
+    "name": "基于stable-diffusion-xl 0.9版",
+    "url": "https://manjushri-sdxl-0-9.hf.space",
+    "is_need_login": "否",
+    "media_type": "图像类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "简单的图像创作工具,效果比较好"
+  },
+  {
+    "image": "https://editing-images-ledits.hf.space",
+    "name": "以文改图",
+    "url": "https://editing-images-ledits.hf.space",
+    "is_need_login": "否",
+    "media_type": "图像类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "通过自然语言修改图像"
+  },
+  {
     "image": "https://lijiacai-wd14-tagging-online.hf.space/",
     "name": "逆向Prompt",
     "url": "https://lijiacai-wd14-tagging-online.hf.space/",
@@ -78,7 +100,7 @@
   },
   {
     "image": "https://claude.ai/chats",
-    "name": "claude.ai",
+    "name": "claude.ai，支持本地知识库",
     "url": "https://claude.ai/chats",
     "is_need_login": "是",
     "media_type": "文本类",
@@ -97,6 +119,28 @@
     "is_free": "是",
     "author": "清华大学&智谱ai",
     "desc": "国内ai，对中文支持友好，免费使用"
+  },
+  {
+    "image": "https://mikeee-chatglm2-6b-4bit.hf.space/",
+    "name": "ChatGLM2-6B",
+    "url": "https://mikeee-chatglm2-6b-4bit.hf.space/",
+    "is_need_login": "否",
+    "media_type": "文本类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "清华大学&智谱ai",
+    "desc": "国内ai，对中文支持友好，免费使用"
+  },
+  {
+    "image": "https://thomas-yanxin-langchain-chatllm.hf.space",
+    "name": "基于ChatGLM2的本地知识库问答",
+    "url": "https://thomas-yanxin-langchain-chatllm.hf.space",
+    "is_need_login": "否",
+    "media_type": "文本类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "清华大学&智谱ai",
+    "desc": "国内ai，对中文支持友好，免费使用，不够智能"
   },
   {
     "image": "https://chatglm.cn/detail",
