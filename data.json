@@ -1,0 +1,79 @@
+[
+  {
+    "image": "",
+    "name": "翻译工具",
+    "url": "https://lijiacai-translate.hf.space/",
+    "is_need_login": "否",
+    "media_type": "文本类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "多种语言翻译"
+  },
+  {
+    "image": "https://zh.savefrom.net/favicon.ico",
+    "name": "视频下载工具",
+    "url": "https://zh.savefrom.net/226/",
+    "is_need_login": "否",
+    "media_type": "视频类",
+    "is_need_vpn": "是",
+    "is_free": "是",
+    "author": "",
+    "desc": "提供facebook，youtube，tiktok,soundcloud.com,dailymotion.com等国外站点视频下载"
+  },
+  {
+    "image": "",
+    "name": "Stable Diffusion 2.1 Demo",
+    "url": "https://stabilityai-stable-diffusion.hf.space/",
+    "is_need_login": "否",
+    "media_type": "图像类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "stabilityai",
+    "desc": "提供sd 2.1 模型进行ai作图"
+  },
+  {
+    "image": "https://lijiacai-stable-diffusion-webui-cpu.hf.space/",
+    "name": "stable-diffusion-webui-cpu",
+    "url": "https://lijiacai-stable-diffusion-webui-cpu.hf.space/",
+    "is_need_login": "否",
+    "media_type": "图像类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "提供cpu版本的stable-diffusion-webui，供学习使用"
+  },
+  {
+    "image": "https://lijiacai-stable-diffusion-2-1-demo.hf.space/",
+    "name": "stable-diffusion-2-1",
+    "url": "https://lijiacai-stable-diffusion-2-1-demo.hf.space/",
+    "is_need_login": "否",
+    "media_type": "图像类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "简单的图像创作工具"
+  },
+  {
+    "image": "https://lijiacai-wd14-tagging-online.hf.space/",
+    "name": "逆向Prompt",
+    "url": "https://lijiacai-wd14-tagging-online.hf.space/",
+    "is_need_login": "否",
+    "media_type": "文本类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "根据已有图像反推关键词，逆向prompt"
+  },
+  {
+    "image": "https://lijiacai-chatgpt-next-web.hf.space/favicon.ico",
+    "name": "ChatGPT Next Web",
+    "url": "https://lijiacai-chatgpt-next-web.hf.space/",
+    "is_need_login": "否",
+    "media_type": "文本类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "黎家才",
+    "desc": "使用请在设置中设置openai key 与地址"
+  }
+]
