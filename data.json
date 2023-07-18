@@ -7,8 +7,8 @@
     "media_type": "文本类",
     "is_need_vpn": "否",
     "is_free": "是",
-    "author": "黎家才",
-    "desc": "多种语言翻译"
+    "desc": "多种语言翻译",
+    "author": "黎家才"
   },
   {
     "image": "https://zh.savefrom.net/favicon.ico",
@@ -18,8 +18,8 @@
     "media_type": "视频类",
     "is_need_vpn": "是",
     "is_free": "是",
-    "author": "",
-    "desc": "提供facebook，youtube，tiktok,soundcloud.com,dailymotion.com等国外站点视频下载"
+    "desc": "提供facebook，youtube，tiktok,soundcloud.com,dailymotion.com等国外站点视频下载",
+    "author": ""
   },
   {
     "image": "",
@@ -75,5 +75,27 @@
     "is_free": "是",
     "author": "黎家才",
     "desc": "使用请在设置中设置openai key 与地址"
+  },
+  {
+    "image": "https://claude.ai/chats",
+    "name": "claude.ai",
+    "url": "https://claude.ai/chats",
+    "is_need_login": "是",
+    "media_type": "文本类",
+    "is_need_vpn": "是",
+    "is_free": "是",
+    "author": "claude",
+    "desc": "只需要一个google账号即可使用，效果堪比GPT4，且支持本地知识问答"
+  },
+  {
+    "image": "https://chatglm.cn/detail",
+    "name": "chatGLM-130B",
+    "url": "https://chatglm.cn/detail",
+    "is_need_login": "是",
+    "media_type": "文本类",
+    "is_need_vpn": "否",
+    "is_free": "是",
+    "author": "清华大学&智谱ai",
+    "desc": "国内ai，对中文支持友好，免费使用"
   }
 ]
