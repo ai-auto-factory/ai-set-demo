@@ -10,6 +10,7 @@ RUN pip install --no-cache --upgrade pip
 RUN pip install --timeout=120 -r /app/requirements.txt
 
 WORKDIR /app
+RUN chmod 777 /app/_secret_auth_.json
 
 EXPOSE 7860
 
