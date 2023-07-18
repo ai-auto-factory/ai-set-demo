@@ -51,7 +51,7 @@ class CustomPage(Login):
             st.markdown("# AI")
 
             is_need_login = st.selectbox(label="是否需要登录", options=["", '是', '否'])
-            media_type = st.selectbox(label="应用类型", options=["", '文本类', '图像类', "视频类"])
+            media_type = st.selectbox(label="应用类型", options=["", '文本类', '图像类', "视频类", "文档类"])
             is_need_vpn = st.selectbox(label="是否需要vpn", options=["", '是', '否'])
             is_free = st.selectbox(label="是否免费", options=["", '是', '否'])
 
