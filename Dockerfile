@@ -11,7 +11,7 @@ RUN pip install --timeout=120 -r /app/requirements.txt
 
 WORKDIR /app
 
-EXPOSE 8502
+EXPOSE 7860
 
 
-CMD ["python", "-m","streamlit","run","app.py"]
+CMD ["python", "-m","streamlit","run","app.py","--server.port","7860"]
